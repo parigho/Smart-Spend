@@ -111,6 +111,6 @@ dependencies {
     implementation("androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03")
 
     // OpenCsv
-    implementation("com.opencsv:opencsv:5.3")
+    implementation("com.opencsv:opencsv:5.7.1")
 
 }
